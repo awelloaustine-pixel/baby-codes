@@ -4,6 +4,8 @@ import java.util.LinkedList;
 public class linkedlist {
     public static void main(String[] args) {
         LinkedList<Integer> num=new LinkedList<>();
+        
+        //Adding elements to a LinkedList
         num.add(12);
         num.add(34);
         num.add(56);
